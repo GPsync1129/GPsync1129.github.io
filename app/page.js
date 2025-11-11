@@ -42,15 +42,15 @@ export default function Home() {
   ];
 
   const creators = [
-    {
-      name: "Om Chaudhari",
-      role: "ML Developer",
-      image: "/om.jpg",
-      socials: {
-        linkedin: "https://www.linkedin.com/in/om-chaudhari-38960721b/",
-        github: "https://github.com/omchaudhari1107",
-      },
-    },
+    // {
+    //   name: "Om Chaudhari",
+    //   role: "ML Developer",
+    //   image: "/om.jpg",
+    //   socials: {
+    //     linkedin: "https://www.linkedin.com/in/om-chaudhari-38960721b/",
+    //     github: "https://github.com/omchaudhari1107",
+    //   },
+    // },
     {
       name: "Yash Chaudhari",
       role: "ML Developer",
